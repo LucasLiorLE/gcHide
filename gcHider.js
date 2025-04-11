@@ -3,6 +3,7 @@
 // @source       https://github.com/LucasLiorLE/gcHide
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @license GPL-3.0
 // @description  Hides entire chat bubble if it contains a specific SVG path (8 levels up from path element)
 // @author       LucasLiorLE
 // @match        https://chat.google.com/*
